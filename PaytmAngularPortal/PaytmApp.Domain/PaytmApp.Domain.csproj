@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaytmApp.BoundedContext\PaytmApp.BoundedContext.csproj" />
+    <ProjectReference Include="..\PaytmApp.UnitOfWork\PaytmApp.UnitOfWork.csproj" />
+    <ProjectReference Include="..\PaytmApp.Models\PaytmApp.Models.csproj" />
+    <ProjectReference Include="..\PaytmApp.Infrastructure\PaytmApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

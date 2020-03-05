@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaytmApp.Api",
+    "\\PaytmApp.Api\\Controllers",
+    "\\PaytmApp.Api\\Controllers\\Api",
+    "\\PaytmApp.Api\\Controllers\\Api\\BusModule",
+    "\\PaytmApp.Api\\Controllers\\Api\\Core",
+    "\\PaytmApp.Api\\obj",
+    "\\PaytmApp.Domain",
+    "\\PaytmApp.Domain\\BusDomain",
+    "\\PaytmApp.UnitOfWork"
+  ],
+  "SelectedNode": "\\PaytmApp.Api\\Controllers\\Api\\BusModule\\BusesController.cs",
+  "PreviewInSolutionExplorer": false
+}

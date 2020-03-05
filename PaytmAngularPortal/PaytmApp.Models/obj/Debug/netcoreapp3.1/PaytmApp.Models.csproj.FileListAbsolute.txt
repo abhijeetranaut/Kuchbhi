@@ -1,0 +1,16 @@
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.deps.json
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.dll
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.pdb
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.AssemblyInfo.cs
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.dll
+C:\Users\radix\source\repos\PaytmApp\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.pdb
+E:\PaytmAngularPortal\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.deps.json
+E:\PaytmAngularPortal\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.dll
+E:\PaytmAngularPortal\PaytmApp.Models\bin\Debug\netcoreapp3.1\PaytmApp.Models.pdb
+E:\PaytmAngularPortal\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.csprojAssemblyReference.cache
+E:\PaytmAngularPortal\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.AssemblyInfoInputs.cache
+E:\PaytmAngularPortal\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.AssemblyInfo.cs
+E:\PaytmAngularPortal\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.dll
+E:\PaytmAngularPortal\PaytmApp.Models\obj\Debug\netcoreapp3.1\PaytmApp.Models.pdb

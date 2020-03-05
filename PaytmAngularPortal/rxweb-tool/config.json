@@ -1,0 +1,32 @@
+{
+  "projects": {
+    "api": "PaytmApp.Api",
+    "model": "PaytmApp.Models",
+    "context": "PaytmApp.BoundedContext",
+    "domain": "PaytmApp.Domain",
+	"unitOfWork": "PaytmApp.UnitOfWork",
+    "infrastructure": "PaytmApp.Infrastructure",
+    "azureFunctionHttp":"",
+    "portal":"PaytmApp-portal",
+    "azureFunctionBackground":""
+  },
+  "path": {
+    "dbConnection": {
+      "main": "Database.ConnectionString.Main"
+    },
+    "folder": {
+      "model": "DbEntities",
+      "context": "",
+	  "enums": "",
+	  "localizeValidationMessage": "wwwroot"
+    }
+  },
+  "annotations": {
+    "rxweb": false
+  },
+  "config": {
+    "generateEnums": false,
+    "commanTableSchema": "dbo",
+    "validationMessageLocalizationId": "15"
+  }
+}
