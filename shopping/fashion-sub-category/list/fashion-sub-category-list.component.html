@@ -1,0 +1,18 @@
+<!-- <h1>FashionSubCategory LIST</h1>
+<input type="text" [(ngModel)]="id" (keyup)="GetById(id)" >
+<br>
+<button (click)="GetById(id)" [(ngModel)]="id" value="x">something</button> -->
+<!-- <div>{{fashionSubCategory|json}} </div> -->
+
+
+<div class="card" *ngFor="let category of fashionSubCategory">
+    
+    <div class="card-header">
+        {{category.fashionSubCategoryName}}
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">{{category.fashionSubCategoryName}}</h5>
+        <p class="card-text">Click on the button for {{category.fashionSubCategoryName}}</p>
+        <button  class="btn btn-primary" (click)="GetById(Fid= category.fashionSubCategoryId) ">{{category.fashionSubCategoryName}}</button>
+      </div>
+  </div>

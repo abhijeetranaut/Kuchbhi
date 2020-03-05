@@ -1,0 +1,42 @@
+<div>
+    <form [formGroup]="sellerProductFormGroup">
+    <div class="form-group">
+        <label>Seller Id</label>
+        <input type="text" formControlName="sellerId" class="form-control"  />
+    </div>
+    <div class="form-group">
+        <label>Seller Name</label>
+        <input type="text" formControlName="sellerName" class="form-control"  />
+    </div>
+    <div class="form-group">
+        <label>Product Name</label>
+        <input type="text" formControlName="productName" class="form-control"  />    
+    </div>
+    <div class="form-group">
+        <select (change)="selectFashionCategoryIdHandler($event)">
+            <option value="1">Men</option>
+            <option value="2">Women</option>
+        </select>
+     </div>
+     <div class="form-group">
+        <select (change)="selectBrandHandler($event)">
+            <option value="1">Wrogn</option>
+            <option value="2">Fossil</option>
+            <option value="3">Rebook</option>
+            <option value="4">Wrangler</option>
+            <option value="5">Lee</option>
+            <option value="6">Roadster</option>
+            
+        </select>
+     </div>
+     <div class="form-group">
+        <label>Description</label>
+        <input type="text" formControlName="description" class="form-control"  />    
+    </div>
+    <div class="form-group">
+        <label>Price</label>
+        <input type="text" formControlName="price" class="form-control"  />    
+    </div>
+    <button  class="btn btn-primary"  (click)="Post()">Submit</button>
+    </form> 
+</div>

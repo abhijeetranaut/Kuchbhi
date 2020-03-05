@@ -1,0 +1,14 @@
+<h1 style="text-decoration: wavy; color:darkgrey; box-shadow: darkslategray;">List Of Fashion Products</h1>
+<div class="card" *ngFor="let product of vFashionProduct">
+    
+    <div class="card-header">
+        {{product.brandName}}
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">{{product.brandName}}</h5>
+        <p class="card-text">Click on the button for {{product.description}}</p>
+        
+        <button  class="btn btn-primary"  (click)="GetById(Pid=product.FashionProductId)">{{product.price}}</button>
+      </div>
+  </div>
+  <!-- (click)="GetById(Fid= product.fashionSubCategoryId) -->
